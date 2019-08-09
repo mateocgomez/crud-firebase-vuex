@@ -19,3 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# files - el archivo firebase van todas las credenciales de firebase para poder trabajar con este.
+
+firebase.js
