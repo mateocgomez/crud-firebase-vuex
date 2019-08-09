@@ -26,4 +26,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Tener en cuenta que se debe crear el archivo firebase.js con la cuenta propia para poder probar las firestorage con la db llamada tareas, es un crud basico con vuex con el fin de practicar.
